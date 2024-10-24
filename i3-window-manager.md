@@ -10,4 +10,5 @@ categories :
 tags :
  - Tiled Windows
  - Γραφικό Περιβάλλον
+ - i3-window-manager
 ---
